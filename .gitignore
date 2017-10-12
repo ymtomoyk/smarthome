@@ -1,0 +1,6 @@
+*.pyc
+*.key
+*.pem
+*.crt
+smarthome.sh
+advdata.txt
